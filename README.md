@@ -1,1 +1,1 @@
-# SpecWaveNeXt
+# SpecWaveNet

@@ -1,1 +1,1 @@
-# SpecWaveNet
+# Dual Feature Information Enhancement
